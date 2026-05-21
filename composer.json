@@ -1,0 +1,7 @@
+{
+    "name": "bakong/proxy",
+    "description": "Bakong KHQR Proxy",
+    "require": {
+        "php": ">=8.0"
+    }
+}
